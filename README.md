@@ -205,3 +205,19 @@ const response = await fetch("http://localhost:3002/entries/64fcd30ad5932c1a64d0
 console.log(await response.json());
 ```
 
+## UML Diagrams
+### Create New Entry
+<img width="541" alt="Screen Shot 2024-11-17 at 5 56 16 PM" src="https://github.com/user-attachments/assets/fd3a8692-b85e-4eb2-9c2b-111714d133d0">
+
+### Retrieve All Entries
+<img width="551" alt="Screen Shot 2024-11-17 at 5 57 46 PM" src="https://github.com/user-attachments/assets/e9a1dfcb-16e1-4cc4-b617-433cb6a643ad">
+
+### Update Entry by ID
+<img width="514" alt="Screen Shot 2024-11-17 at 5 59 15 PM" src="https://github.com/user-attachments/assets/f36c4237-3f1c-47bc-943b-ce45f886f6fe">
+
+### Delete Entry by ID
+<img width="514" alt="Screen Shot 2024-11-17 at 6 00 16 PM" src="https://github.com/user-attachments/assets/0fe4e9b7-76b6-42ee-999b-0a58a87a01e9">
+
+
+
+
